@@ -1,0 +1,12 @@
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\publish\MiniChallengeTwoToFour - Endpoints.exe
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\publish\appsettings.Development.json
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\publish\appsettings.json
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\publish\MiniChallengeTwoToFour - Endpoints.dll
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\publish\MiniChallengeTwoToFour - Endpoints.deps.json
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\publish\MiniChallengeTwoToFour - Endpoints.runtimeconfig.json
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\publish\MiniChallengeTwoToFour - Endpoints.pdb
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\publish\Microsoft.OpenApi.dll
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

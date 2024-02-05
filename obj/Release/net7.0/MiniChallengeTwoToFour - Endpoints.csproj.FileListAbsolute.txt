@@ -1,0 +1,38 @@
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\bin\Release\net7.0\appsettings.Development.json
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\bin\Release\net7.0\appsettings.json
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\bin\Release\net7.0\MiniChallengeTwoToFour - Endpoints.exe
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\bin\Release\net7.0\MiniChallengeTwoToFour - Endpoints.deps.json
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\bin\Release\net7.0\MiniChallengeTwoToFour - Endpoints.runtimeconfig.json
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\bin\Release\net7.0\MiniChallengeTwoToFour - Endpoints.dll
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\bin\Release\net7.0\MiniChallengeTwoToFour - Endpoints.pdb
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\bin\Release\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\bin\Release\net7.0\Microsoft.OpenApi.dll
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\bin\Release\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\bin\Release\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\bin\Release\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\obj\Release\net7.0\MiniChallengeTwoToFour - Endpoints.csproj.AssemblyReference.cache
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\obj\Release\net7.0\MiniChallengeTwoToFour - Endpoints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\obj\Release\net7.0\MiniChallengeTwoToFour - Endpoints.AssemblyInfoInputs.cache
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\obj\Release\net7.0\MiniChallengeTwoToFour - Endpoints.AssemblyInfo.cs
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\obj\Release\net7.0\MiniChallengeTwoToFour - Endpoints.csproj.CoreCompileInputs.cache
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\obj\Release\net7.0\MiniChallengeTwoToFour - Endpoints.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\obj\Release\net7.0\MiniChallengeTwoToFour - Endpoints.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\obj\Release\net7.0\staticwebassets\msbuild.MiniChallengeTwoToFour - Endpoints.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\obj\Release\net7.0\staticwebassets\msbuild.build.MiniChallengeTwoToFour - Endpoints.props
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\obj\Release\net7.0\staticwebassets\msbuild.buildMultiTargeting.MiniChallengeTwoToFour - Endpoints.props
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\obj\Release\net7.0\staticwebassets\msbuild.buildTransitive.MiniChallengeTwoToFour - Endpoints.props
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\obj\Release\net7.0\staticwebassets.pack.json
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\obj\Release\net7.0\staticwebassets.build.json
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\obj\Release\net7.0\staticwebassets.development.json
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\obj\Release\net7.0\scopedcss\bundle\MiniChallengeTwoToFour - Endpoints.styles.css
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\obj\Release\net7.0\MiniChallengeTwoToFour - Endpoints.csproj.CopyComplete
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\obj\Release\net7.0\MiniChallengeTwoToFour - Endpoints.dll
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\obj\Release\net7.0\refint\MiniChallengeTwoToFour - Endpoints.dll
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\obj\Release\net7.0\MiniChallengeTwoToFour - Endpoints.pdb
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\obj\Release\net7.0\MiniChallengeTwoToFour - Endpoints.genruntimeconfig.cache
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\obj\Release\net7.0\ref\MiniChallengeTwoToFour - Endpoints.dll
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\bin\Release\net7.0\publish\web.config
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\bin\Release\net7.0\publish\appsettings.Development.json
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\bin\Release\net7.0\publish\appsettings.json
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\bin\Release\net7.0\publish\MiniChallengeTwoToFour - Endpoints.deps.json
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\bin\Release\net7.0\publish\MiniChallengeTwoToFour - Endpoints.runtimeconfig.json

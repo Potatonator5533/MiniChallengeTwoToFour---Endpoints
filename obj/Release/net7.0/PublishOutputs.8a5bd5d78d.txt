@@ -1,0 +1,17 @@
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\bin\Release\net7.0\publish\MiniChallengeTwoToFour - Endpoints.exe
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\bin\Release\net7.0\publish\publish\web.config
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\bin\Release\net7.0\publish\appsettings.Development.json
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\bin\Release\net7.0\publish\appsettings.json
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\bin\Release\net7.0\publish\publish\appsettings.Development.json
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\bin\Release\net7.0\publish\publish\appsettings.json
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\bin\Release\net7.0\publish\publish\MiniChallengeTwoToFour - Endpoints.deps.json
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\bin\Release\net7.0\publish\publish\MiniChallengeTwoToFour - Endpoints.runtimeconfig.json
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\bin\Release\net7.0\publish\MiniChallengeTwoToFour - Endpoints.dll
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\bin\Release\net7.0\publish\MiniChallengeTwoToFour - Endpoints.deps.json
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\bin\Release\net7.0\publish\MiniChallengeTwoToFour - Endpoints.runtimeconfig.json
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\bin\Release\net7.0\publish\MiniChallengeTwoToFour - Endpoints.pdb
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\bin\Release\net7.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\bin\Release\net7.0\publish\Microsoft.OpenApi.dll
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\josue\Documents\MiniChallengeTwoToFour - Endpoints\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
